@@ -1,3 +1,4 @@
 def text(text):
   print(text)
-def var(
+def var(name):
+  var name
